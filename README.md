@@ -47,85 +47,166 @@ Variance at 12 is 110.25
 
 //Represents mean at specific time
 Mean at N 5 is 80.5
+
 Minimum:55 Maximum:91
- CurrentTime: 13 StartTime: 11
+
+CurrentTime: 13 StartTime: 11
+
 Stats Object:92 at 11
+
 Mean at 13 is 77.0
+
 Thread Counts: event:2 mean: 2 meanN: 2 variance:2
- CurrentTime: 13 StartTime: 11
+
+CurrentTime: 13 StartTime: 11
+
 Mean at N 1 is 77.0
+
 Variance at 13 is 238.5
+
 Stats Object:3 at 11
+
 Minimum:55 Maximum:92
+
 Stats Object:18 at 11
- CurrentTime: 14 StartTime: 11
- CurrentTime: 14 StartTime: 11
+
+CurrentTime: 14 StartTime: 11
+
+CurrentTime: 14 StartTime: 11
+
 Thread Counts: event:3 mean: 2 meanN: 2 variance:2
- CurrentTime: 14 StartTime: 11
+
+CurrentTime: 14 StartTime: 11
+
 Stats Object:19 at 11
+
 Stats Object:16 at 11
+
 Stats Object:94 at 11
- CurrentTime: 15 StartTime: 11
+
+CurrentTime: 15 StartTime: 11
+
 Thread Counts: event:3 mean: 2 meanN: 2 variance:2
+
 Stats Object:63 at 11
+
 Variance at 15 is 1238.7654
+
 Minimum:3 Maximum:94
- CurrentTime: 15 StartTime: 11
+
+CurrentTime: 15 StartTime: 11
+
 Stats Object:8 at 11
- CurrentTime: 15 StartTime: 11
+
+CurrentTime: 15 StartTime: 11
+
 Stats Object:1 at 11
+
 Variance at 16 is 1256.8055
+
 Minimum:1 Maximum:94
- CurrentTime: 16 StartTime: 11
+
+CurrentTime: 16 StartTime: 11
+
 Thread Counts: event:3 mean: 2 meanN: 2 variance:2
- CurrentTime: 16 StartTime: 11
+
+CurrentTime: 16 StartTime: 11
+
 Stats Object:24 at 11
- CurrentTime: 16 StartTime: 11
+
+CurrentTime: 16 StartTime: 11
+
 Stats Object:76 at 11
+
 Stats Object:25 at 11
+
 Mean at N 9 is 43.666668
+
 Mean at 17 is 43.666668
- CurrentTime: 17 StartTime: 11
+
+CurrentTime: 17 StartTime: 11
+
 Thread Counts: event:3 mean: 2 meanN: 2 variance:2
- CurrentTime: 17 StartTime: 11
+
+CurrentTime: 17 StartTime: 11
+
 Stats Object:53 at 11
+
 Stats Object:7 at 11
- CurrentTime: 17 StartTime: 11
+
+CurrentTime: 17 StartTime: 11
+
 Stats Object:84 at 11
+
 Mean at N 4 is 44.38889
+
+
 Mean at 18 is 44.38889
+
 Variance at 18 is 1106.3489
+
 Minimum:1 Maximum:94
- CurrentTime: 18 StartTime: 11
+
+CurrentTime: 18 StartTime: 11
+
 Stats Object:85 at 11
+
 Thread Counts: event:3 mean: 2 meanN: 2 variance:2
- CurrentTime: 18 StartTime: 11
+
+CurrentTime: 18 StartTime: 11
+
 Stats Object:55 at 11
- CurrentTime: 18 StartTime: 11
+
+CurrentTime: 18 StartTime: 11
+
 Stats Object:64 at 11
+
 Variance at 19 is 1039.1338
+
 Minimum:1 Maximum:94
- CurrentTime: 19 StartTime: 11
+
+CurrentTime: 19 StartTime: 11
+
 Thread Counts: event:3 mean: 2 meanN: 2 variance:2
- CurrentTime: 19 StartTime: 11
+
+
+CurrentTime: 19 StartTime: 11
+
 Stats Object:76 at 11
- CurrentTime: 19 StartTime: 11
+
+CurrentTime: 19 StartTime: 11
+
 Stats Object:39 at 11
+
 Stats Object:36 at 11
- CurrentTime: 20 StartTime: 11
- CurrentTime: 20 StartTime: 11
+
+CurrentTime: 20 StartTime: 11
+
+CurrentTime: 20 StartTime: 11
+
 Stats Object:22 at 11
+
 Thread Counts: event:3 mean: 2 meanN: 2 variance:2
- CurrentTime: 20 StartTime: 11
+
+CurrentTime: 20 StartTime: 11
+
 Stats Object:60 at 11
+
+
 Stats Object:73 at 11
+
 Variance at 21 is 898.9163
+
 Minimum:1 Maximum:94
+
 Thread Counts: event:3 mean: 2 meanN: 2 variance:2
- CurrentTime: 21 StartTime: 11
+
+CurrentTime: 21 StartTime: 11
+
 Stats Object:80 at 11
 
 //Represents the end of program
 Shutting down threads
+
 About to close the program..
  	
